@@ -9,6 +9,11 @@ public  class HdfcBank extends RbiBank {
 		HdfcBank h=new HdfcBank();
 		h.savings();
 		h.deposit();
+		}
+	public static void main1(String[] args) {
+		HdfcBank h=new HdfcBank();
+		h.savings();
+		h.deposit();
 	
 
 	}
